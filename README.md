@@ -7,7 +7,7 @@ Link 1: teste0
 12222
 Link 2:test
 2😹😂
-Noth
+Not
 22
 Ka
 Treinando MD
