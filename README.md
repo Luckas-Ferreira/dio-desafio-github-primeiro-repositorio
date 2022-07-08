@@ -11,4 +11,4 @@ Link 2:test
 Ka
 Treinando MD
 Hana
-O link
+ link
